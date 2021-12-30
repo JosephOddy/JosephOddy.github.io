@@ -1,5 +1,7 @@
 layout: page
 title: "Publications"
-permalink: /URL-PATH/
+permalink: /publications/
 
 ## Publications
+
+TaASN-B2

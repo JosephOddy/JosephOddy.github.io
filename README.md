@@ -4,7 +4,7 @@ I'm currently working on my PhD project at Rothamsted Research under the supervi
 
 ### Investigating natural diversity in the asparagine synthetase family
 
-Alongside collaborators at Colorado State University, we investigated a deletion of one of the wheat asparagine synthetase genes (*TaASN-B2*) and how this impacts grain asparagine content in the field. Paper available here.
+Alongside collaborators at Colorado State University, we investigated a deletion of one of the wheat asparagine synthetase genes (*TaASN-B2*) and how this impacts grain asparagine content in the field. Paper available [here](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-03058-7).
 
 ### Finding stable QTL for quality traits
 

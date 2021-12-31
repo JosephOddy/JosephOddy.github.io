@@ -17,11 +17,13 @@ In combination with the above genetic studies, we are also trying to find optimu
 ## Links
 
 [Google Scholar](https://scholar.google.com/citations?user=C5t6-asAAAAJ&hl=en)
-[Linkedin](https://www.linkedin.com/in/joseph-oddy-879561131/)
-[Work profile](https://www.rothamsted.ac.uk/our-people/joseph-oddy#BIOGRAPHY-)
-[Twitter](https://twitter.com/joeoddy)
-[Goodreads](https://www.goodreads.com/user/show/127398173-joseph-oddy)
 
-## Piano music
+[Linkedin](https://www.linkedin.com/in/joseph-oddy-879561131/)
+
+[Work profile](https://www.rothamsted.ac.uk/our-people/joseph-oddy#BIOGRAPHY-)
+
+[Twitter](https://twitter.com/joeoddy)
+
+[Goodreads](https://www.goodreads.com/user/show/127398173-joseph-oddy)
 
 I write piano music sometimes, check it out [here](https://github.com/JosephOddy/PianoCompositions).

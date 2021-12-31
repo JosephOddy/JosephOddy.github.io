@@ -13,3 +13,15 @@ I'm hoping to find stable QTL for asparagine and other quality traits that can b
 ### Growing low asparagine wheat
 
 In combination with the above genetic studies, we are also trying to find optimum agronomic conditions/treatment regimes to prevent grain asparagine accumulation.
+
+## Links
+
+[Google Scholar](https://scholar.google.com/citations?user=C5t6-asAAAAJ&hl=en)
+[Linkedin](https://www.linkedin.com/in/joseph-oddy-879561131/)
+[Work profile](https://www.rothamsted.ac.uk/our-people/joseph-oddy#BIOGRAPHY-)
+[Twitter](https://twitter.com/joeoddy)
+[Goodreads](https://www.goodreads.com/user/show/127398173-joseph-oddy)
+
+## Piano music
+
+I write piano music sometimes, check it out [here](https://github.com/JosephOddy/PianoCompositions).
